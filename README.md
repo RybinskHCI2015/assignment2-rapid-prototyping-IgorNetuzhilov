@@ -4,7 +4,7 @@
 ## Что сделать
 Для начала выполнения задания необходимо перейти по ссылке:
 
-https://classroom.github.com/assignment-invitations/980bcf230d54109794bc78cb53cf7c4c
+https://classroom.github.com/a/MEwan0Es
 
 Для вас будет создан репозитарий в рамках организации RybinskHCI2015, в который будет скопировано все содержимое этого репозитария.
 
